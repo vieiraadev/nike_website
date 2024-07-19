@@ -419,7 +419,15 @@ nav {
   border-radius: 1rem;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
   overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+  /* Adiciona transição suave para o zoom */
 }
+
+.banner__container:hover {
+  transform: scale(1.05) translateY(-2px);
+  /* Aplica o efeito de zoom e movimento para cima */
+}
+
 
 .banner__image img {
   max-width: 500px;
