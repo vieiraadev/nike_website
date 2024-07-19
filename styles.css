@@ -46,6 +46,11 @@
   border: none;
   background-color: transparent;
   cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.1);
 }
 
 .btn span {
@@ -395,13 +400,18 @@ nav {
   position: absolute;
   top: 50%;
   left: 1rem;
-  transform: translateY(calc(-50% + 12rem));
+  transform: translateY(calc(-50% + 12rem)) scale(1);
   width: 100%;
   padding: 1rem;
   border-radius: 5px;
   background-color: var(--white);
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  transition: transform 0.3s ease;
+}
+
+.story__card__content:hover {
+  transform: translateY(calc(-50% + 12rem)) scale(1.1);
 }
 
 .story__card__content .section__description {
@@ -420,12 +430,12 @@ nav {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
   overflow: hidden;
   transition: transform 0.3s ease-in-out;
-  /* Adiciona transição suave para o zoom */
+
 }
 
 .banner__container:hover {
   transform: scale(1.05) translateY(-2px);
-  /* Aplica o efeito de zoom e movimento para cima */
+
 }
 
 
