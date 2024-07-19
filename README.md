@@ -30,3 +30,6 @@ Sinta-se à vontade para contribuir para este projeto. Se você encontrar algum 
 ![image](https://github.com/user-attachments/assets/4eacdca6-1bec-4c03-ae76-51061b5440e4)
 
 ![image](https://github.com/user-attachments/assets/200c3d94-22f5-4fd3-a110-0cc616e7c443)
+
+
+![image](https://github.com/user-attachments/assets/a02a5d6d-a0af-43c7-b65d-6d7579fd6f92)
