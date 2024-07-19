@@ -39,3 +39,4 @@ Sinta-se à vontade para contribuir para este projeto. Se você encontrar algum 
 
 ![image](https://github.com/user-attachments/assets/46207550-8b55-4da4-a242-0bf4c58ca681)
 
+![image](https://github.com/user-attachments/assets/854e77ea-a908-4c45-b2fd-6778e64445be)
