@@ -27,3 +27,4 @@ Contribuição<br>
 
 Sinta-se à vontade para contribuir para este projeto. Se você encontrar algum problema ou tiver sugestões de melhorias, crie um issue ou envie um pull request.<br>
 
+![image](https://github.com/user-attachments/assets/4eacdca6-1bec-4c03-ae76-51061b5440e4)
