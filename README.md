@@ -33,3 +33,6 @@ Sinta-se à vontade para contribuir para este projeto. Se você encontrar algum 
 
 
 ![image](https://github.com/user-attachments/assets/a02a5d6d-a0af-43c7-b65d-6d7579fd6f92)
+
+
+![image](https://github.com/user-attachments/assets/27be6220-5c23-4ee7-8ebd-606513a8b7e1)
